@@ -1,1 +1,17 @@
+# Gearbox Design Log
 
+### Day 1
+
+**2:15 PM** - The project that I am working on is a really special one... Guess what it is? It is in my bio, anyways I started designing the gearbox(It took sooo long!). So basically,I went with a three-speed gearbox, basically I used started off desinging the slot in which the engine's shaft sits in, and chose a 3.06:1 ratio for the first gear, a 1.82:1 ratio for the second and a 1.32:1 for the third gear. So basically:-
+
+
+1st Gear: 16T Input (Drive) / 49T Output (Driven) 
+2nd Gear: 23T Input (Drive) / 42T Output (Driven)
+3rd Gear: 28T Input (Drive) / 37T Output (Driven) 
+
+
+But then, I realized that I wasn't the best at modelling by what I had done,so asked AI to do it.
+
+**4:10 PM** - Completed 3D modelling the gears with the enclosure. Realized spur gears were bad for high speed runners, so switched the gears to helical.
+
+**4:50 PM** - Completed designing iteration two. And started printing
